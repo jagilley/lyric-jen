@@ -25,3 +25,7 @@ One can observe idiomatic vocabulary in this sample, along with more emergent id
 ## EVALUATION
 
 Jen was evaluated by three metrics: test-set perplexity, next word prediction accuracy, and line overlap detection. Test set perplexity is a measure of how "surprised" we should be to find a line in a dataset. By this metric, Jen scores a 278, slightly worse than can be found in many similar published papers. By the metric of next word prediction, performs at 38.7% accuracy on the rap lyrics tuning dataset, which is also in line with expectations. Finally, by tuning Jen correctly, we find that we can eliminate direct drawing from the tuning dataset, as can be seen in this plot of direct drawing versus the "temperature" hyperparameter.
+
+## PAPER
+
+[You can find the full paper describing Jen in detail here.](https://jagilley.github.io/resources/Gilley_Final_Paper.pdf)
