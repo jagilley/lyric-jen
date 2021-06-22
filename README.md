@@ -8,16 +8,16 @@ Jen is a lyric generation tool capable of writing song lyrics in the style of co
 
 With a dataset of the lyrics of 114,723 English-language songs found on Kaggle, Jen is capable of replicating lyrics in nearly any genre. Because of the quantity available and because of genre idioms, however, Jen works particularly well on rap lyrics. Here is an example of Jen's rapping:  
 
-*When it rains it makin' silver raining
-When it rained bullets it pimpin' tippin'
-I turn this city around and I run it
-I turn this city around and I run it I was sick of them popping caper
-And hiding out of town
-When nobody came to party
-I made my town my vacation
-When nobody came to party
-I made my town my vacation
-When nobody came to party
+*When it rains it makin' silver raining  
+When it rained bullets it pimpin' tippin'  
+I turn this city around and I run it  
+I turn this city around and I run it I was sick of them popping caper  
+And hiding out of town  
+When nobody came to party  
+I made my town my vacation  
+When nobody came to party  
+I made my town my vacation  
+When nobody came to party  
 I made my town my vacation I was sick of them popping caper*
 
 One can observe idiomatic vocabulary in this sample, along with more emergent idiomatic features like similar line endings and repetition of material.
